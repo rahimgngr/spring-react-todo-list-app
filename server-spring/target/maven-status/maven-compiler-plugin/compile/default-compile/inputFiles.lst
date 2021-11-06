@@ -1,0 +1,8 @@
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/repository/TodoSubRepo.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/service/TodoService.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/service/TodoServiceImpl.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/SpringTodoApplication.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/entity/TodoHeadEntity.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/controller/TodoController.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/repository/TodoRepo.java
+/home/rahimgng/vscode/todo-app/server/spring-todo/src/main/java/com/rahimgng/springtodo/entity/TodoSubEntity.java
